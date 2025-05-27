@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a web developer and digital problem solver currently w
 - 💼 **Current Role**: Developer at [Muddyboots](https://muddyboots.online)
 - 🌐 **Portfolio**: [wakely.ca](https://github.com/DocMcCoy/wakely.ca) — originally built as my final project at SAIT, now a living project I continue to refine.
 - 🛠️ **Tech Stack**: JavaScript, Vue, Ruby on Rails, PHP / Laravel, HTML/CSS, Git, and more.
-- 🎓 **Education**: Graduate of the Web Development program at SAIT (2018)
+- 🎓 **Education**: Graduate of the Web Development program at SAIT (2018) and a Red Seal Journeyman before that.
 
 ## 📂 Featured Projects
 
